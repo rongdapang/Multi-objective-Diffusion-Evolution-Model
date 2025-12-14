@@ -403,12 +403,6 @@ model.load_state_dict(torch.load('model.pth'))
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 🙏 致谢
-
-- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) - Jonathan Ho et al.
-- [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) - Jascha Sohl-Dickstein et al.
-- 所有为本项目做出贡献的开发者和研究者
-
 ## 📧 联系方式
 
 - 项目维护者: [Your Name]
