@@ -1,0 +1,13 @@
+# 核心依赖
+numpy>=1.19.0
+scipy>=1.5.0
+
+# 可选依赖（用于示例和测试）
+matplotlib>=3.3.0
+pandas>=1.1.0
+
+# 开发依赖
+pytest>=6.0
+pytest-cov>=2.0
+black>=21.0
+flake8>=3.8
